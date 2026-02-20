@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Zeit.de Komplettansicht
 // @namespace    https://sebastianwie.land/
-// @version      2026-02-20
-// @description  Öffnet alle Artikel immer in der Komplettansicht, sodass man nicht mehr blättern muss.
+// @version      2026-02-20_1
+// @description  Mehrseitige Artikel auf Zeit.de werden immer in der Komplettansicht geöffnet, sodass man innerhalb des Artikels nicht mehr blättern muss.
 // @author       Sebastian Wieland
 // @match        https://www.zeit.de/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=zeit.de
