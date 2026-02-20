@@ -7,7 +7,6 @@
 // @match        https://www.zeit.de/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=zeit.de
 // @grant        none
-// @version      1
 // @downloadURL  https://raw.githubusercontent.com/oktupol/tampermonkey-scripts/refs/heads/main/zeit-komplettansicht.js
 // @updateURL    https://raw.githubusercontent.com/oktupol/tampermonkey-scripts/refs/heads/main/zeit-komplettansicht.js
 // ==/UserScript==
