@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Zeit.de Komplettansicht
 // @namespace    https://github.com/oktupol/tampermonkey-scripts/
-// @version      2026-02-21
+// @version      2026-02-24
 // @description  Mehrseitige Artikel auf Zeit.de werden immer in der Komplettansicht geöffnet, sodass man innerhalb des Artikels nicht mehr blättern muss.
 // @author       Sebastian Wieland
 // @match        https://www.zeit.de/*
@@ -21,5 +21,5 @@
         return;
     }
 
-    window.location.replace(link.href);
+    window.location.replace(link.href + window.location.hash);
 })();
