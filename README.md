@@ -21,3 +21,13 @@ Download-URL:
 ```
 https://raw.githubusercontent.com/oktupol/tampermonkey-scripts/refs/heads/main/zeit-komplettansicht.js
 ```
+### Pointing Poker: Show Votes
+
+Shows the other players' votes on [pointingpoker.com](https://www.pointingpoker.com) before "Show Votes" has been
+clicked. The server sends every vote in plain text; the site only hides them client-side. The script picks up the votes
+from the SignalR traffic and displays them in light grey inside the still-hidden vote cells.
+
+Download-URL:
+```
+https://raw.githubusercontent.com/oktupol/tampermonkey-scripts/refs/heads/main/pointingpoker-show-votes.js
+```
