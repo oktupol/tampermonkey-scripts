@@ -5,6 +5,7 @@
 // @description  Shows other players' votes on pointingpoker.com before "Show Votes" has been clicked.
 // @author       Sebastian Wieland
 // @match        https://pointingpoker.com/*
+// @match        https://www.pointingpoker.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=pointingpoker.com
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/oktupol/tampermonkey-scripts/refs/heads/main/pointingpoker-show-votes.js
